@@ -2,18 +2,20 @@
 
 header {
     text-align: center;
-    color: darkblue;
-    font-size: 500px;
+    color: lightgray;
+    font-size: 200px;
     font-family: Arial;
     font-style: bold;
 }
 
 body {
     background-color: darkgreen;
+    color:white;
+    margin: 10px 10px 10px 10px;
 }
 
 nav {
-    font-size: 300px;
+    font-size: 100px;
     font-family: helvetica;
     font-style: italic;
 }
