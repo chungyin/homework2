@@ -1,11 +1,11 @@
-.col-md-4 {
-    backgroud-color: purple;
-    color: white;
-}
+
 
 header {
     text-align: center;
     color: darkblue;
+    font-size: 100px;
+    font-family: Arial;
+    font-style: bold;
 }
 
 body {
