@@ -19,3 +19,7 @@ nav {
     font-family: helvetica;
     font-style: italic;
 }
+iframe {
+    width: 500;
+    height: 600;
+}
