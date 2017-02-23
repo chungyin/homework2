@@ -3,11 +3,17 @@
 header {
     text-align: center;
     color: darkblue;
-    font-size: 100px;
+    font-size: 500px;
     font-family: Arial;
     font-style: bold;
 }
 
 body {
-    background-color: lightgoldenrodyellow;
+    background-color: darkgreen;
+}
+
+nav {
+    font-size: 300px;
+    font-family: helvetica;
+    font-style: italic;
 }
