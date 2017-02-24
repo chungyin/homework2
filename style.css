@@ -17,9 +17,11 @@ header {
     color: lightyellow;
     font-size: 50px;
     background-color: gray;
+    margin: 0px 0px 0px 0px;
 }
 
 footer {
-    background-color: gray;
+    background-color:lightgray;
     color: white;
+    margin: 0px 0px 0px 0px;
 }
