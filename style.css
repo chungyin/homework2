@@ -25,3 +25,8 @@ footer {
     color: white;
     margin: 0px 0px 0px 0px;
 }
+
+div {
+    padding-left: 30px;
+    padding-right: 30px;
+}
